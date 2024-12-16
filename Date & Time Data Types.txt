@@ -1,0 +1,9 @@
+-- CREATE TABLE events (
+-- 	event_name VARCHAR(100),
+-- 	event_date DATE,
+-- 	event_time TIME
+-- );
+
+-- INSERT INTO events(event_name, event_date, event_time)
+-- VALUES ("Coding Event", CURDATE() + 4, "11:23:33");
+

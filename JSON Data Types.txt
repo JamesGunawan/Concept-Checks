@@ -1,0 +1,11 @@
+-- CREATE TABLE settings (
+-- user_id INT AUTO_INCREMENT PRIMARY KEY,
+-- preferences JSON
+-- ); 
+
+-- INSERT INTO settings (preferences)
+-- VALUES ('{"notifications": true}');
+
+-- select *
+-- from settings
+-- where JSON_EXTRACT(preferences, '$.notifications') = false;

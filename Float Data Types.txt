@@ -1,0 +1,8 @@
+-- CREATE TABLE transactions (
+-- 	amount_float FLOAT,
+--  amount_decimal DECIMAL(10,2)
+-- );
+
+-- INSERT INTO transactions (amount_float, amount_decimal)
+-- VALUES (123456, 123456);
+
